@@ -9,6 +9,7 @@ The second scene will be the moving ship collides with rock and sinks.
 The third scene will be of the ship of rescue.
 
 
+
 About  the Concept Used :
 
 OpenGL Utility Library (GLU) 
