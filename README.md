@@ -1,5 +1,7 @@
 # Sinking-Ship-and-Rescuing-Ship
 
+A computer graphics project:
+
 The project consists of three scenes:
 
 The first scene just shows the ship, which is moving.
